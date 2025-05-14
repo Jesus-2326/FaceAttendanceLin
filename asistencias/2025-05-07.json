@@ -1,0 +1,25 @@
+{
+    "synced": true,
+    "registros": {
+        "5": {
+            "nombre": "David Cruz",
+            "entrada": "12:41:18",
+            "salida": "12:45:14"
+        },
+        "3": {
+            "nombre": "Luis Flores",
+            "entrada": "12:41:42",
+            "salida": "12:45:04"
+        },
+        "8": {
+            "nombre": "Jesus Martinez",
+            "entrada": "12:41:48",
+            "salida": "12:45:49"
+        },
+        "4": {
+            "nombre": "Roberto Tercero",
+            "entrada": "08:11:59",
+            "salida": "12:45:37"
+        }
+    }
+}
