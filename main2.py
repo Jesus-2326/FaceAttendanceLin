@@ -18,6 +18,7 @@ import adafruit_fingerprint
 import serial
 import time
 
+#
 # >>> RFID
 import RPi.GPIO as GPIO
 from mfrc522 import SimpleMFRC522
