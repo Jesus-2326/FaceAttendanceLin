@@ -1,0 +1,20 @@
+{
+    "synced": false,
+    "registros": {
+        "24": {
+            "nombre": "JESUS MARTINEZ ARELLANO",
+            "entrada": "10:46:48",
+            "salida": "12:05:24"
+        },
+        "12": {
+            "nombre": "LUIS FELIPE FLORES SANCHEZ",
+            "entrada": "10:53:40",
+            "salida": "12:06:49"
+        },
+        "1": {
+            "nombre": "EDUARDO FREIDKES ROSENSTEIN",
+            "entrada": null,
+            "salida": "12:05:54"
+        }
+    }
+}
